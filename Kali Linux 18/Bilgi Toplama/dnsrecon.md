@@ -9,6 +9,12 @@ Parametreden sonra "goo" yaziriq. Bu google vasitest ile verilen domain'a aid su
 
 "tld" komandi--aladi ve alanadi aid ip adreslerini tarayabiliriz.
 
+"-r" komandasi: --  mueyyen bir IP araligin yazib , o ip araligina adi domain`leri tapa bilerik.
+"dnsrecon  -r  208.7.211.0-208.73.211.255"  kimi  axtarisimizi ede bilerik 
+
+ve yaa
+"dnsrecon -r 208.72.211.0/24" kimide ede bilerik . Her 2 sinde de 0 -255 araliginda ip adresleri tarayacaqdir.
+
 
 DNSRecon, aşağıdakileri gerçekleştirme olanağı sağlar:
 
