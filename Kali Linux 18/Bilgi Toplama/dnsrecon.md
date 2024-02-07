@@ -7,6 +7,8 @@ misal ucun:
 "-d" ile domain`imizi belirittik. "-t" parametresi "type" manasina gelir.Yani hangi tarama novunu istifade edeceyimizi qeyd edirik.
 Parametreden sonra "goo" yaziriq. Bu google vasitest ile verilen domain'a aid subdomainleri cixarir.
 
+"tld" komandi--aladi ve alanadi aid ip adreslerini tarayabiliriz.
+
 
 DNSRecon, aşağıdakileri gerçekleştirme olanağı sağlar:
 
