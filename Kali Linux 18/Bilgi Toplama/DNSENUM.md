@@ -28,7 +28,8 @@ dnsenum aracı, ağda belirli bir hedef alan adının altyapısını keşfetmek 
 #GOOGLE HAZIRLAMA SEÇENEKLERİ:
 -p, –pages <değer> Adları sıyırırken işlenecek google arama sayfalarının sayısını, varsayılan 5 sayfadır, -s anahtarı belirtilmelidir.
 -s, –scrap <değer> Google’dan sıyrılacak maksimum alt alan sayısı (varsayılan 15).
-BRÜT KUVVET SEÇENEKLERİ:
+
+#BRÜT KUVVET SEÇENEKLERİ:
 -f, –file <dosya> kaba kuvvet uygulamak için bu dosyadaki alt alanları oku.
 -u, –update <a | g | r | z>
 -F anahtarıyla belirtilen dosyayı geçerli alt alan adlarıyla güncelleyin.
