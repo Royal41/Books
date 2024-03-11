@@ -40,4 +40,24 @@ Bu bilgiler arasında cihazın IP adresi, açık portlar, işletim sistemi, ciha
 
 -----------
 
+Shodan, internetdə qoşulmuş cihazların (məsələn, kompüterlər, router-lar, serverlər, İoT cihazları və s.) təhlükəsizlik vəziyyətini izləmək və başa düşmək üçün istifadə olunan bir axtarış motorudur. Shodan, istifadəçilərin müəyyən cihazları axtarmaqlarına, İP ünvanlarını tapmalarına və bu cihazlar haqqında müxtəlif məlumatlar əldə etmələrinə imkan verir.
+
+## Shodan'ın bəzi xüsusiyyətləri aşağıdakılardır:
+
+1.Cihaz Axtarışı: Shodan, internetdə olan hər hansı bir cihazı axtarmaq üçün istifadə oluna bilər. Bu, serverlər, kamera sistemləri, təhlükəsizlik sistemləri, İoT cihazları və s. daxildir.
+
+2.Xidmət Analizi: Shodan, müəyyən bir İP ünvanı və ya cihaz haqqında işləyən xidmətlər, açıq portlar və digər texniki məlumatlar kimi məlumatlar təqdim edə bilər.
+
+3.Təhlükəsizlik Qiymətləndirməsi: Shodan, açıq xidmətlər və portların yanı sıra cihazların təhlükəsizlik məsələlərini də göstərə bilər. Bu, kompüter qorxanları üçün potensial hədəflərin təyin edilməsinə kömək edə bilər.
+
+4.İoT Cihazlarını İzləmə: Shodan, internetə qoşulmuş İoT cihazlarının (akıllı ev cihazları, sənaye nəzarət sistemləri və s.) izləməsinə imkan verir. Bu, bu cür cihazların təhlükəsizlik vəziyyətini izləmək və ehtiyat tədbirlərini almaq üçün istifadə oluna bilər.
+
+5.Shodan, siber təhlükəsizlik mütəxəssisləri, şəbəkə idarəçiləri və tədqiqatçılar üçün potensial təhlükələri təyin etmək və şəbəkələrini təhlükəsiz saxlamaq üçün bir alət kimi istifadə oluna bilər. Lakin, Shodan'ın qanuni istifadəsi əhəmiyyətlidir. Qanunsuz giriş və ya cihazlara zərərli təsirlərin qalmasını təmin etmək kimi pis məqsədlər üçün istifadə edilməməlidir.
+
+
+
+
+
+
+
 
